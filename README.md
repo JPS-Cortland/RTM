@@ -1,3 +1,3 @@
 # RTM
-# Firmware for the Rear Transition Module (RTM) board. Version C02
+# Firmware for the Rear Transition Module (RTM) board. Version C01
 # 
